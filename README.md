@@ -35,7 +35,7 @@ We chose this problem because mental health support remains largely inaccessible
 Key challenges we addressed include:
 - Integrating Groq's LLMs for natural, supportive conversation
 - Creating a mood tracking system that visualizes emotional patterns over time
-- Developing multi-modal input methods (text, voice, image) for journaling
+- Developing multi-modal input methods (text, voice, image, audio) for journaling
 - Ensuring private and secure handling of sensitive mental health data
 - Designing an interface that feels warm and welcoming rather than clinical
 
