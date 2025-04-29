@@ -69,8 +69,7 @@ During development, we pivoted from a purely chat-based interface to a more comp
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Video will be added here]
-- **Pitch Deck / PPT Link:** [Link will be added here]
+- **Demo Video Link:** [https://vimeo.com/1079141695?share=copy]
 
 ---
 
